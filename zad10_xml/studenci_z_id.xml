@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<studenci>
+    <student id="1">
+        <imie>Jan</imie>
+        <nazwisko>Kowalski</nazwisko>
+        <wiek>21</wiek>
+        <kierunek>Informatyka</kierunek>
+    </student>
+    <student id="2">
+        <imie>Anna</imie>
+        <nazwisko>Nowak</nazwisko>
+        <wiek>22</wiek>
+        <kierunek>Matematyka</kierunek>
+    </student>
+    <student id="4">
+        <imie>Maria</imie>
+        <nazwisko>Wójcik</nazwisko>
+        <wiek>23</wiek>
+        <kierunek>Fizyka</kierunek>
+    </student>
+    <student id="5">
+        <imie>Tomasz</imie>
+        <nazwisko>Kamiński</nazwisko>
+        <wiek>21</wiek>
+        <kierunek>Mechatronika</kierunek>
+    </student>
+</studenci>
